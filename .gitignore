@@ -1,0 +1,10 @@
+# Datasets and compressed archives
+*.tar.gz
+aclImdb/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Workspace clutter
+.workspace-submit.json
+Untitled*.ipynb
